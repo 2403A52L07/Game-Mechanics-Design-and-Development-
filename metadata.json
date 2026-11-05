@@ -1,0 +1,6 @@
+{
+  "name": "Sylvan Rush: Bioluminescent Odyssey",
+  "description": "A 3D bioluminescent enchanted forest endless runner featuring elemental spirit skins, arcane power-ups, mobile touch controls, and a global leaderboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
